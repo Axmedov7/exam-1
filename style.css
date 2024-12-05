@@ -1,0 +1,29 @@
+h2{
+    text-align: center;
+    background-color: aquamarine;
+    border: 3px solid;
+    border-radius: 30px;
+}
+h4{
+    text-align: center;
+    color: green;
+    background-color: yellow;
+}
+button{
+    color: white;
+}
+table, tr, th, td{
+    border: 1px solid;
+    border-collapse: collapse;
+    color: white;
+    padding: 3px 100px ;
+}
+tr{
+    color: white;
+}
+td{
+    color: white;
+}
+th{
+    color: white;
+}
